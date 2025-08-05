@@ -1,0 +1,8 @@
+requests
+ipython
+python-dotenv
+beautifulsoup4
+selenium
+
+gradio
+ollama
