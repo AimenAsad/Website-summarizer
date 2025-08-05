@@ -6,10 +6,10 @@ This project scrapes any public website and uses a local Large Language Model (L
 
 ## 🚀 Features
 
-- 🌐 Scrapes website content using BeautifulSoup
-- 🧠 Generates intelligent summaries via local LLM (LLaMA3) using Ollama
-- 🖼️ User-friendly UI using Gradio
-- 🏃 Fully local — no API keys or external servers required
+- Scrapes website content using BeautifulSoup
+- Generates intelligent summaries via local LLM (LLaMA3) using Ollama
+- User friendly UI using Gradio
+- Fully local, no API keys or external servers required
 
 ---
 ## ✍️ Example Use Case
@@ -18,9 +18,7 @@ Enter a company name and its website URL.
 The app will:
 
 Scrape the text content
-
 Generate a markdown summary using LLaMA3
-
 Show it in the browser
 
 ---
@@ -30,3 +28,13 @@ Python
 BeautifulSoup — HTML parsing
 Gradio — UI framework
 Ollama — Run LLaMA3 locally
+
+---
+
+## 🔍 Project Screenshot
+
+Here's how the app looks:
+
+![Web Interface Screenshot](images/Interface.png)
+![Question Screenshot](images/question+url.png)
+![Output Screenshot](images/output.png)
