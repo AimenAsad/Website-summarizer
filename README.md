@@ -15,18 +15,18 @@ This project scrapes any public website and uses a local Large Language Model (L
 ## ✍️ Example Use Case
 Enter a company name and its website URL.
 
-The app will:
+The app will:<br>
 
-Scrape the text content
-Generate a markdown summary using LLaMA3
+Scrape the text content<br>
+Generate a markdown summary using LLaMA3<br>
 Show it in the browser
 
 ---
 
 ## 🧰 Tech Stack
-Python
-BeautifulSoup — HTML parsing
-Gradio — UI framework
+Python<br>
+BeautifulSoup — HTML parsing<br>
+Gradio — UI framework<br>
 Ollama — Run LLaMA3 locally
 
 ---
